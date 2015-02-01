@@ -1,0 +1,16 @@
+Tabs:
+    - Home --> Andrew
+    - About --> Tiffany
+    - Team --> Tiffany (format junior mentors)
+    - Join
+    - Tutoring
+
+Sections in the bottom:
+    - Contact
+    - Tutoring
+
+CSS
+
+Logo?
+Color scheme?
+Content
