@@ -106,17 +106,52 @@
     text-align: center;
     vertical-align: middle;
     height: 200px;
-    position: absolute;
-    top: 185px; 
+/*    position: absolute;
+    top: 185px; */
     opacity: 0;
-    transition: 0.7s;
+    transition: 0.5s;
 }
 .mentor-title:hover {
     opacity: 1;
-    transition: 0.7s;
+    transition: 0.5s;
+}
+.exec-title {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    background: rgba(72, 156, 137, 0.5);
+    color: white;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    height: 200px;
+    position: absolute;
+    top: 185px; 
+    opacity: 0;
+    transition: 0.5s;
+}
+.exec-title:hover {
+    opacity: 1;
+    transition: 0.5s;
 }
 .profile {
     display: inline-block;
+}
+
+/*Join*/
+#join {
+    padding: 100px;
+}
+#join-timeline td {
+    padding: 0px 30px;
+}
+#join-timeline {
+    border: 2px solid black;
+}
+
+/*Contact*/
+#contact {
+    padding: 100px;
 }
 
 /*Support*/
