@@ -94,6 +94,29 @@
 .mentor-pic {
     height: 200px;
     margin: 0px;
+    border-radius: 20%;
+}
+.mentor-title {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    background: rgba(0,0,0,0.3);
+    color: white;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    height: 200px;
+    position: absolute;
+    top: 185px; 
+    opacity: 0;
+    transition: 0.7s;
+}
+.mentor-title:hover {
+    opacity: 1;
+    transition: 0.7s;
+}
+.profile {
+    display: inline-block;
 }
 
 /*Support*/
