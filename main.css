@@ -88,28 +88,31 @@
 
 /*Team*/
 #team {
-    display: inline-block;
     padding: 100px;
 }
+.profile, .profile a {
+    position: relative;
+    display: inline-block;
+}
+
 .mentor-pic {
     height: 200px;
     margin: 0px;
-    border-radius: 20%;
+    border-radius: 10%;
+    position: absolute;
 }
 .mentor-title {
     height: 200px;
     width: 200px;
-    border-radius: 20%;
-    background: rgba(0,0,0,0.3);
+    border-radius: 10%;
+    background: rgba(0,0,0,0.6);
     color: white;
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    height: 200px;
-/*    position: absolute;
-    top: 185px; */
     opacity: 0;
     transition: 0.5s;
+    position: relative;
 }
 .mentor-title:hover {
     opacity: 1;
@@ -118,24 +121,19 @@
 .exec-title {
     height: 200px;
     width: 200px;
-    border-radius: 20%;
-    background: rgba(72, 156, 137, 0.5);
+    border-radius: 10%;
+    background: rgba(72, 156, 137 , 0.6);
     color: white;
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    height: 200px;
-    position: absolute;
-    top: 185px; 
     opacity: 0;
     transition: 0.5s;
+    position: relative;
 }
 .exec-title:hover {
     opacity: 1;
     transition: 0.5s;
-}
-.profile {
-    display: inline-block;
 }
 
 /*Join*/
