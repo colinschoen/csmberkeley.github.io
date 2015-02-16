@@ -1,0 +1,27 @@
+---
+layout: page
+title: Leadership Team
+permalink: /team/
+---
+
+{% for profile in site.data.team.execs %}
+<div class="profile">
+  {% if profile.href %}<a href="{{ profile.href }}">{% endif %}
+    <img class="mentor-pic" src="/img/team/{{ profile.img }}">
+    <div class="exec-title">
+      <span><b>{{ profile.name }}</b><br>{{ profile.title }}</span>
+    </div>
+  {% if profile.href %}</a>{% endif %}
+</div>
+{% endfor %}
+
+{% for profile in site.data.team.mentors %}
+<div class="profile">
+  {% if profile.href %}<a href="{{ profile.href }}">{% endif %}
+    <img class="mentor-pic" src="/img/team/{{ profile.img }}">
+    <div class="mentor-title">
+      <span><b>{{ profile.name }}</b><br>{{ profile.title }}</span>
+    </div>
+  {% if profile.href %}</a>{% endif %}
+</div>
+{% endfor %}
