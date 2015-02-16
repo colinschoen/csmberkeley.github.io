@@ -175,8 +175,8 @@
 .paragraph {
     margin-bottom: 70px;
 }
-h1 {
-    font-weight: 400px;
+.container h1 {
+    font-weight: 400;
 }
 h2 {
     margin-top: 30px;
@@ -187,13 +187,22 @@ html {
 body {
     font-family: 'PT Sans', sans-serif;
     overflow-x: hidden;
-    display: inline-block;
     margin: 0px;
     height: 100%;
     width: 100%;
+    line-height: 1.5;
+}
+p {
+    font-size: 20px;
 }
 a {
     text-decoration: none;
+    transition: 0.7s;
+    color: #5ac2ab;
+}
+a:hover {
+    color: #489c89;
+    transition: 0.7s;
 }
 footer {
     text-align: center;
