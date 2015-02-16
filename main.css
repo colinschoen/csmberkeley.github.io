@@ -14,7 +14,7 @@
 }
 .navbar-title {
     display: inline-block;
-    padding: 1.5% 1%;
+    padding: 1.2% 1%;
     width: 12.44%;
     float: left;
     transition: 0.7s;
@@ -26,7 +26,7 @@
 }
 .navbar-item {
     display: inline-block;
-    padding: 1.5% 1%;
+    padding: 1.2% 1%;
     width: 12.44%;
     float: right;
     transition: 0.7s;
@@ -175,6 +175,9 @@
 .paragraph {
     margin-bottom: 70px;
 }
+h1 {
+    font-weight: 400px;
+}
 h2 {
     margin-top: 30px;
 }
@@ -202,7 +205,7 @@ footer {
     width: 100%;
 }
 
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 900px) {
     .container button {
         width: 100%;
     }
