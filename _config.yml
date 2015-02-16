@@ -1,0 +1,10 @@
+# Site settings
+title: Computer Science Mentors
+email: csmberkeley@gmail.com
+description:
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://csmberkeley.github.io" # the base hostname & protocol for your site
+github_username: csmberkeley
+
+# Build settings
+markdown: kramdown
