@@ -22,7 +22,9 @@ This Spring, 2,400 students will be enrolled in CS 61A and CS 61B. Instead of 70
 ### Teaching
 With over 1,000 students enrolled in each of the introductory computer science courses, it's easy to lose oneself in such a large environment. We offer students the opportunity to learn and teachers the opportunity to teach through adjunct sections and one-on-one tutoring methods.
 
-<button>Get Tutoring</button>
+Email us at _[csmberkeley@gmail.com](mailto:csmberkeley@gmail.com) if you are interested in enrolling in an adjunct section. We still have spots available for CS 61A. Check Piazza for weekly offerings of one-on-one tutoring for respective classes.
+
+<!-- <button>Get Tutoring</button> -->
 
 ### Mentorship
 Through a mentorship system, we provide opportunities for budding teachers (called "Junior Mentors") to both teach Computer Science with a group of ~5 students each and learn from experienced teachers (called "Senior Mentors"). Senior Mentors have opportunities to write material and provide tips to Junior Mentors on how to teach, in addition to teaching a section of their own.
