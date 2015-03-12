@@ -22,7 +22,7 @@ This Spring, 2,400 students will be enrolled in CS 61A and CS 61B. Instead of 70
 ### Teaching
 With over 1,000 students enrolled in each of the introductory computer science courses, it's easy to lose oneself in such a large environment. We offer students the opportunity to learn and teachers the opportunity to teach through adjunct sections and one-on-one tutoring methods.
 
-Email us at _[csmberkeley@gmail.com](mailto:csmberkeley@gmail.com) if you are interested in enrolling in an adjunct section. We still have spots available for CS 61A. Check Piazza for weekly offerings of one-on-one tutoring for respective classes.
+Email us at [csmberkeley@gmail.com](mailto:csmberkeley@gmail.com) if you are interested in enrolling in an adjunct section. We still have spots available for CS 61A. Check Piazza for weekly offerings of one-on-one tutoring for respective classes.
 
 <!-- <button>Get Tutoring</button> -->
 

@@ -8,7 +8,7 @@ permalink: /join/
 
 ## Mentorship
 
-We have unfortunately closed applications for Senior and Junior Mentors. Check back in the Fall if you are still interested!
+We have unfortunately closed applications for Senior and Junior Mentors. We will be opening applications once again for the Fall 2015 semester for Senior Mentors in April 2015, and Junior Mentors in August 2015. Check back then!
 
 ## Tutoring
 
