@@ -8,7 +8,10 @@ permalink: /join/
 
 ## Mentorship
 
-We have unfortunately closed applications for Senior and Junior Mentors. We will be opening applications once again for the Fall 2015 semester for Senior Mentors in April 2015, and Junior Mentors in August 2015. Check back then!
+We will be releasing applications for Senior Mentors and Leadership positions on April 19, 2015, and they will be due on Saturday, April 25. We will be conducting interviews for Senior Mentors that following week.
+
+Junior Mentor applications will be opened in the middle of August 2015. Check back then!
+
 
 ## Tutoring
 
