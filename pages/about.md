@@ -22,10 +22,7 @@ In Spring 2015, 2,400 students were enrolled in CS 61A and CS 61B. Instead of 70
 ### Teaching
 With over 1,000 students enrolled in each of the introductory computer science courses, it's easy to lose oneself in such a large environment. We offer students the opportunity to learn and teachers the opportunity to teach through adjunct sections and one-on-one tutoring methods.
 
-#### Students
 We will be on the second iteration of group tutoring in Fall 2015, supporting CS 61A and CS 61B once more. Students will be expected to attend their assigned section regularly and work in small groups of ~5 students. You may choose to enroll in a section on Telebears and receive one unit of credit upon passing (the class is P/NP). Check Piazza for more details and announcements. Email us at [csmberkeley@gmail.com](mailto:csmberkeley@gmail.com) if you have questions.
-
-#### Teachers
 
 <!-- <button>Get Tutoring</button> -->
 
