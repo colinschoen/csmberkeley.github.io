@@ -37,11 +37,8 @@ We bring computer science educators together through collective tutoring and soc
 
 <br>
 
-We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.
-
-<br>
-
 <a href="https://www.ocf.berkeley.edu">
 <img src="https://www.ocf.berkeley.edu/images/hosted-logos/lighter152x41.gif" 
 alt="Hosted by the OCF" width="152" height="41" style="border:0" />
 </a>
+We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.
