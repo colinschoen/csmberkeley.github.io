@@ -1,19 +1,38 @@
 /* About */
-.container button {
-    background: #5ac2ab;
-    padding: 20px 70px;
-    border: none;
-    font-size: 20px;
-    color: white;
-    margin: 2px 0px;
-    font-variant: small-caps;
-    transition: 0.7s;
-    margin: 10px 0px;
+.stats-box {
+    border: 1px solid black;
 }
-.container button:hover {
-    transition: 0.7s;
-    background: #489c89;
+
+.container .stats-box {
+    text-align: center;
 }
-.container button a {
-    color: white;
+
+ul {
+    list-style-type: none;
+}
+h1 {
+    text-align: center;
+}
+body {
+    background: url("../img/event-pics/su15/61a-review.jpg") no-repeat center center fixed;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+
+.mentor-title, .exec-title {
+    height: 150px;
+    width: 150px;
+    top: -6px;
+}
+.mentor-pic {
+    position: relative;
+    height: 150px;
+    margin-bottom: -150px;
+}
+#team.container {
+    text-align: center;
+}
+.profile {
+    margin-bottom: -20px;
 }
