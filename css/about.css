@@ -1,0 +1,19 @@
+/* About */
+.container button {
+    background: #5ac2ab;
+    padding: 20px 70px;
+    border: none;
+    font-size: 20px;
+    color: white;
+    margin: 2px 0px;
+    font-variant: small-caps;
+    transition: 0.7s;
+    margin: 10px 0px;
+}
+.container button:hover {
+    transition: 0.7s;
+    background: #489c89;
+}
+.container button a {
+    color: white;
+}
