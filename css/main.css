@@ -111,6 +111,10 @@
     color: black;
 }
 
+.home_blurbs {
+    padding: 100px, 0px, 100px, 0px;
+}
+
 /* About */
 .container button {
     background: #5ac2ab;
