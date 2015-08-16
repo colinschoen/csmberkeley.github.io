@@ -116,6 +116,10 @@
     height: 300px;
 }
 
+.home_blurbs h2 {
+    font-size: 40px;
+}
+
 
 /* About */
 .container button {
