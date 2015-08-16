@@ -105,6 +105,12 @@
     color: #FFF;
 }
 
+#home_title_overlay {
+    position: absolute;
+    height: 500px;
+    background: rgba(100, 100, 100, .5);
+}
+
 #home_body {
     padding-top: 600px;
 }
