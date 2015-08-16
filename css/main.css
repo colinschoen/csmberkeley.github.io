@@ -98,7 +98,6 @@
 #home_title {
     background-image: url("http://www.mccullagh.org/db9/950-22/soda-hall-berkeley.jpg");
     background-size: cover;
-    position: absolute;
     height: 500px;
     color: #FFF;
 }
@@ -275,12 +274,16 @@ footer {
     color: white;
 }
 
+.footer_column ul {
+    list-style-type: none;
+}
+
 .footer_column li a {
-    color: #AAA;
+    color: #FFF;
 }
 
 .footer_column li a:hover{
-    color: #FFF;
+    color: #AAA;
 }
 
 .row {
