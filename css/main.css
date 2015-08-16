@@ -259,6 +259,22 @@ footer {
     width: 100%;
 }
 
+.footer_column h5 {
+    color: white;
+}
+
+.footer_column li a {
+    color: #AAA;
+}
+
+.footer_column li a:hover{
+    color: #FFF;
+}
+
+.row {
+    display:inline-block;
+}
+
 @media screen and (max-width: 900px) {
     .container button, {
         width: 100%;
