@@ -105,7 +105,7 @@
 }
 
 #home_body {
-    margin-top: 600px;
+    padding-top: 600px;
 }
 
 /* About */
@@ -278,6 +278,10 @@ footer {
 
 .footer_column h5 {
     color: white;
+}
+
+.footer_column ul {
+    padding-left: 0;
 }
 
 .footer_column li {
