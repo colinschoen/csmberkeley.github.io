@@ -1,3 +1,5 @@
+/* different color schemes? 21b6a8*/
+
 /* About */
 .stats-box {
     margin: 0px;
@@ -10,6 +12,39 @@
 }
 .stats-box strong {
     color: white;
+}
+
+/* Join */
+#join-nav {
+    text-align: center;
+}
+#join-nav li {
+    display: inline-block;
+    background-color: #489c89;
+    padding: 10px 20px;
+    color: white;
+    opacity: 1;
+    transition: 0.7s;
+    font-size: 20px;
+    margin: 2px;
+}
+#join-nav li:hover {
+    opacity: 0.9;
+    transition: 0.7s;
+}
+#join-nav a {
+    color: white;
+}
+.join-box {
+    margin: 100px 0px;
+}
+.question {
+    font-weight: bold;
+    font-size: 20px;
+}
+.answer {
+    margin-bottom: 50px;
+    font-size: 16px;
 }
 
 /* Team */
@@ -25,6 +60,7 @@
 }
 #team.container {
     text-align: center;
+    padding: 50px;
 }
 .profile {
     margin-bottom: -20px;
@@ -36,6 +72,9 @@ ul {
 }
 h1 {
     text-align: center;
+}
+h2 {
+    font-weight: normal;
 }
 h3 {
     text-align: center;
@@ -86,5 +125,8 @@ html {
         -webkit-column-count: 1; /* Chrome, Safari, Opera */
         -moz-column-count: 1; /* Firefox */
         column-count: 1;
+    }
+    #join-nav li {
+        display: block;
     }
 }
