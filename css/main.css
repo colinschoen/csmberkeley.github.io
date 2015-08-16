@@ -112,7 +112,8 @@
 }
 
 .home_blurbs {
-    padding: 100px, 0px, 100px, 0px;
+    padding-top: 50%;
+    padding-bottom: 50%;
     height: 500px;
 }
 
