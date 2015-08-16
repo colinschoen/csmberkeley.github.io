@@ -302,7 +302,8 @@ footer {
     list-style: none;
     list-style-position: inside;
     margin: 0;
-    padding:0;
+    padding:10px;
+    font-size: 20px;
 }
 
 .footer_column li a {
