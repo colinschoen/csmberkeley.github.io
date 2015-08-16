@@ -327,10 +327,6 @@ footer {
     padding-right: 40px;
 }
 
-.row {
-    display:inline-block;
-}
-
 @media screen and (max-width: 900px) {
     .container button, {
         width: 100%;
