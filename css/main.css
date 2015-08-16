@@ -104,6 +104,10 @@
     color: #FFF;
 }
 
+#home_body {
+    margin-top: 600px;
+}
+
 /* About */
 .container button {
     background: #5ac2ab;
