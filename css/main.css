@@ -330,6 +330,7 @@ footer {
 
 .row .footer_column{
     display:inline-block;
+    vertical-align: top;
     padding-left: 40px;
     padding-right: 40px;
 }
