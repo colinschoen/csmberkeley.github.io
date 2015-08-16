@@ -97,7 +97,8 @@
 }
 
 #home_title {
-    background-image: url("http://www.mccullagh.org/db9/950-22/soda-hall-berkeley.jpg");
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5), 
+            url("http://www.mccullagh.org/db9/950-22/soda-hall-berkeley.jpg"));
     background-size: cover;
     position: absolute;
     width: 100%;
