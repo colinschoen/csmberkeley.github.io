@@ -94,6 +94,10 @@
     text-shadow: 1px 1px 1px black;
     padding: 100px 0px 200px 0px;
 }
+#soda_home {
+    width: 100%;
+    height: auto;
+}
 
 /* About */
 .container button {
