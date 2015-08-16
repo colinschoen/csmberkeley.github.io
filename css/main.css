@@ -97,10 +97,16 @@
 }
 
 #home_title {
-    background-image: url("http://www.mccullagh.org/db9/950-22/soda-hall-berkeley.jpg");
-    background-size: cover;
-    min-height: 500px;
+    height: 500px;
     color: #FFF;
+    overflow: hidden;
+}
+
+#home_soda:  {
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    left: 0px;
 }
 
 /* About */
