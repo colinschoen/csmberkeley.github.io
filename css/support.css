@@ -8,6 +8,9 @@
     font-size: 26px;
     width: 100%;
 }
+.stats-box strong {
+    color: white;
+}
 
 /* Team */
 .mentor-title, .exec-title {
@@ -39,8 +42,10 @@ h3 {
     font-weight: normal;
     font-style: italic;
 }
-.stats-box strong {
-    color: white;
+.container button {
+    padding: 15px 50px;
+    margin: 0px;
+
 }
 body {
     margin: 0px;
@@ -52,9 +57,34 @@ html {
     padding: 50px 200px;
     margin: 0px;
 }
+.columns {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    text-align: center;
+    -webkit-column-gap: 30px;
+    -moz-column-gap: 30px;
+    column-gap: 30px;
+    -webkit-column-rule-style: solid;
+    -moz-column-rule-style: solid;
+    column-rule-style: solid;
+    -webkit-column-rule-color: #5ac2ab;
+    -moz-column-rule-color: #5ac2ab;
+    column-rule-color: #5ac2ab;
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    break-inside: avoid;
+}
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
     .container {
         padding: 50px;
+    }
+}
+@media screen and (max-width: 670px) {
+    .columns {
+        -webkit-column-count: 1; /* Chrome, Safari, Opera */
+        -moz-column-count: 1; /* Firefox */
+        column-count: 1;
     }
 }
