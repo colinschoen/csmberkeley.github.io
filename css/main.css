@@ -277,8 +277,8 @@ footer {
     text-align: left;
 }
 
-.footer_column h5 {
-    color: white;
+.footer_column h2 {
+    padding-bottom: 0px;
 }
 
 .footer_column ul {
