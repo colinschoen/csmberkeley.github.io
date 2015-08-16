@@ -99,6 +99,7 @@
     height: 500px;
     color: #FFF;
     overflow: hidden;
+    border-bottom: solid 5px #000;
 }
 
 #home_soda  {
