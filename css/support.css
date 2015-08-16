@@ -1,0 +1,60 @@
+/* About */
+.stats-box {
+    margin: 0px;
+    text-align: center;
+    margin: 0px auto;
+    background-color: #5ac2ab;
+    padding: 20px;
+    font-size: 26px;
+    width: 100%;
+}
+
+/* Team */
+.mentor-title, .exec-title {
+    height: 150px;
+    width: 150px;
+    top: -6px;
+}
+.mentor-pic {
+    position: relative;
+    height: 150px;
+    margin-bottom: -150px;
+}
+#team.container {
+    text-align: center;
+}
+.profile {
+    margin-bottom: -20px;
+}
+
+/* Others */
+ul {
+    list-style-type: none;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+}
+.stats-box strong {
+    color: white;
+}
+body {
+    margin: 0px;
+}
+html {
+    margin: 0px;
+}
+.container {
+    padding: 50px 200px;
+    margin: 0px;
+}
+
+@media screen and (max-width: 900px) {
+    .container {
+        padding: 50px;
+    }
+}
