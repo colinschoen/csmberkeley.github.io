@@ -58,11 +58,11 @@
     height: 100%;
     width: 100%;
     background: white;
-    margin-top: 0px;
 }
 #home h1 {
     text-align: center;
     font-size: 70px;
+    color: #FFF;
     padding: 20px 50px 50px 50px;
 }
 #home button {
@@ -96,9 +96,8 @@
     padding: 100px 0px 200px 0px;
 }
 #home_title {
-    background-image: url("http://www.mccullagh.org/db9/950-22/soda-hall-berkeley.jpg");
-    background-size: cover;
     min-height: 500px;
+    color: #FFF;
 }
 
 /* About */
