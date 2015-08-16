@@ -63,6 +63,7 @@
     font-size: 60px;
     color: #FFF;
     padding-top: 200px;
+    white-space: nowrap;
 }
 #home button {
     background: #5ac2ab;
