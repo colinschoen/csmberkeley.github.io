@@ -61,9 +61,8 @@
 #home h1 {
     text-align: center;
     font-size: 60px;
-    font-weight: bold;
     color: #FFF;
-    padding: 50px 50px 50px 50px;
+    text-align: center;
 }
 #home button {
     background: #5ac2ab;
