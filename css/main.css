@@ -58,6 +58,7 @@
     height: 100%;
     width: 100%;
     background: white;
+    margin-top: 0px;
 }
 #home h1 {
     text-align: center;
