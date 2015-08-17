@@ -126,7 +126,7 @@
  }
 
  .home_blurbs div {
-    display:table-cell;
+    display:inline-block;
  }
 
  #test {
