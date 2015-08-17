@@ -114,6 +114,19 @@ html {
     -moz-column-break-inside: avoid;
     break-inside: avoid;
 }
+.footer_column h2 {
+    font-size: 16px;
+    padding-bottom:0px;
+}
+.footer_column li {
+    font-size: 16px;
+}
+.footer_column p {
+    padding-top:0px;
+}
+.row .footer_column{
+    padding: 0px 20px;
+}
 
 @media screen and (max-width: 1000px) {
     .container {
