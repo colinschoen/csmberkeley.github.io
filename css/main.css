@@ -126,11 +126,15 @@
  }
 
  .home_blurbs div {
-    display:inline-block;
+    display:table-cell;
+ }
+
+ #test {
+    display: table;
  }
 
  #test .home_blurbs {
-    display: inline-block;
+    display: table-row;
  }
 
 /* About */
