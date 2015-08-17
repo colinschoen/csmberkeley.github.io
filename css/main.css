@@ -314,6 +314,7 @@ footer {
 .footer_column li a {
     color: #FFF;
     text-shadow: 0px 0px 0px black;
+    font-weight: lighter;
 }
 
 .footer_column li a:hover{
