@@ -111,7 +111,7 @@
 }
 
 .home_blurbs {
-    margin-bottom: 100px;
+    padding-bottom: 100px;
     height: 300px;
 }
 
@@ -123,18 +123,6 @@
     text-align: center;
     margin-left:auto;
     margin-right: auto;
- }
-
- .home_blurbs div {
-    display:inline-block;
- }
-
- #test {
-    display: table;
- }
-
- #test .home_blurbs {
-    display: table-row;
  }
 
 /* About */
@@ -345,66 +333,6 @@ footer {
     vertical-align: top;
     padding-left: 40px;
     padding-right: 40px;
-}
-
-
-/* Others */
-ul {
-    list-style-type: none;
-}
-h1 {
-    text-align: center;
-}
-h2 {
-    font-weight: normal;
-}
-h3 {
-    text-align: center;
-    font-weight: normal;
-    font-style: italic;
-}
-.container button {
-    padding: 15px 50px;
-    margin: 0px;
-
-}
-
-.container {
-    padding: 50px 200px;
-    margin: 0px;
-}
-.columns {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 3;
-    text-align: center;
-    -webkit-column-gap: 30px;
-    -moz-column-gap: 30px;
-    column-gap: 30px;
-    -webkit-column-rule-style: solid;
-    -moz-column-rule-style: solid;
-    column-rule-style: solid;
-    -webkit-column-rule-color: #5ac2ab;
-    -moz-column-rule-color: #5ac2ab;
-    column-rule-color: #5ac2ab;
-    -webkit-column-break-inside: avoid;
-    -moz-column-break-inside: avoid;
-    break-inside: avoid;
-}
-
-.footer_column h2 {
-    font-size: 16px;
-    padding-bottom:0px;
-}
-.footer_column li {
-    font-size: 16px;
-    font-weight:lighter;
-}
-.footer_column p {
-    padding-top:0px;
-}
-.row .footer_column{
-    padding: 0px 20px;
 }
 
 @media screen and (max-width: 900px) {
