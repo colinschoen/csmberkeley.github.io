@@ -129,6 +129,10 @@
     display:inline-block;
  }
 
+ #test .home_blurbs {
+    display: inline-block;
+ }
+
 /* About */
 .container button {
     background: #5ac2ab;
