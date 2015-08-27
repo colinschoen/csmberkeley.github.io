@@ -125,9 +125,24 @@
     margin-right: auto;
  }
 
+#keep_image_left {
+    float:left;
+    width:50%;
+}
+
+#keep_text_right {
+    float:right;
+    width:50%;
+}
+
  @media only screen and (min-width: 321px) {
-    #home_body {
-        background: red;
+    #keep_image_left {
+        float: initial;
+        text-align: center;
+    }
+    #keep_text_right {
+        float:initial;
+        text-align: center;
     }
  }
 
