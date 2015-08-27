@@ -109,6 +109,10 @@
     padding-top: 400px;
     color: black;
 }
+.row-fluid h2 {
+    font-size: 2em;
+}
+
 
 /* About */
 .container button {
