@@ -135,7 +135,7 @@
     width:50%;
 }
 
- @media only screen and (min-width: 321px) {
+ @media only screen and (max-width: 320px) {
     #keep_image_left {
         float: initial;
         text-align: center;
