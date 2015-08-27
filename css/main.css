@@ -113,6 +113,10 @@
     font-size: 2em;
 }
 
+.row-fluid {
+    padding-bottom: 200px;
+}
+
 
 /* About */
 .container button {
