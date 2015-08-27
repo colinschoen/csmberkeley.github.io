@@ -110,21 +110,6 @@
     color: black;
 }
 
-.home_blurbs {
-    padding-bottom: 100px;
-    height: 300px;
-}
-
-.home_blurbs h2 {
-    font-size: 40px;
-}
- .home_blurbs p {
-    max-width: 500px;
-    text-align: center;
-    margin-left:auto;
-    margin-right: auto;
- }
-
 /* About */
 .container button {
     background: #5ac2ab;
