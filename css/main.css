@@ -126,7 +126,9 @@
  }
 
  @media only screen and (min-width: 321px) {
-    background: red;
+    #home_body {
+        background: red;
+    }
  }
 
 /* About */
