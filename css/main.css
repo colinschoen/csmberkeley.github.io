@@ -126,13 +126,13 @@
  }
 
 #keep_image_left {
-    float:left;
-    width:50%;
+    /*float:left;
+    width:50%;*/
 }
 
 #keep_text_right {
-    float:right;
-    width:50%;
+    /*float:right;
+    width:50%;*/
 }
 
  @media only screen and (max-width: 320px) {
