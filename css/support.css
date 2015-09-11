@@ -53,10 +53,34 @@
     width: 150px;
     top: -6px;
 }
+.exec-title {
+    background: rgba(0,0,0,0.6);
+}
+.mentor-title {
+    background: rgba(72, 156, 137 , 0.6);
+}
 .mentor-pic {
     position: relative;
     height: 150px;
     margin-bottom: -150px;
+}
+.advisor-title {
+    border-radius: 10%;
+    background: rgba(36, 78, 68 , 0.6);
+    color: white;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    opacity: 0;
+    transition: 0.5s;
+    position: relative;
+    height: 150px;
+    width: 150px;
+    top: -6px;
+}
+.advisor-title:hover {
+    opacity: 1;
+    transition: 0.5s;
 }
 #team.container {
     text-align: center;
